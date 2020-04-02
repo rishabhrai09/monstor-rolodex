@@ -1,0 +1,9 @@
+.search{
+    border-radius: 3px;
+    background-color: black;
+    color: whitesmoke;
+    line-height: 5px;
+    margin: auto;
+    margin-bottom: 20px;
+    height: 30px;
+}
